@@ -1,0 +1,58 @@
+"_id",employee_id,employee_name,role,batch,lunch_timings,leaves,Employee  ID
+5d1a7df62943ef0384b63f87,CFE0001,Madhuri Chintada,Team lead,Batch1,12:30-01:30,0,1
+5d1a7df62943ef0384b63f88,CFE0002,Bharathi Nallari,Team lead,Batch1,12:30-01:30,0,2
+5d1a7df62943ef0384b63f89,CFE0003,Pavan Ravi Kumar Kijari,Quality analyst,Batch1,12:30-01:30,0,3
+5d1a7df62943ef0384b63f8a,CFE0004,Ashok Kumar Erle,Customer service excutive,Batch1,12:30-01:30,0,4
+5d1a7df62943ef0384b63f8b,CFE0005,Suvarna Vennela,Customer service excutive,Batch1,12:30-01:30,0,5
+5d1a7df62943ef0384b63f8c,CFE0006,Bhavani Tupilli,Customer service excutive,Batch1,12:30-01:30,0,6
+5d1a7df62943ef0384b63f8d,CFE0007,Uday Bhaskar Padala,Customer service excutive,Batch1,12:30-01:30,0,7
+5d1a7df62943ef0384b63f8e,CFE0008,Urukundu Soram,Customer service excutive,Batch1,12:30-01:30,0,8
+5d1a7df62943ef0384b63f8f,CFE0009,Pushpalatha Choppa,Customer service excutive,Batch1,12:30-01:30,0,9
+5d1a7df62943ef0384b63f90,CFE0010,Bhavani Yamana Bala,Customer service excutive,Batch1,12:30-01:30,0,10
+5d1a7df62943ef0384b63f91,CFE0011,Srinivas Reddy Rikka,Customer service excutive,Batch1,12:30-01:30,0,11
+5d1a7df62943ef0384b63f92,CFE0012,Ravi Kumar Kunchela,Customer service excutive,Batch1,12:30-01:30,0,12
+5d1a7df62943ef0384b63f93,CFE0013,Mani Sabbavarapu,Customer service excutive,Batch1,12:30-01:30,0,13
+5d1a7df62943ef0384b63f94,CFE0014,Prasanth Pitta,Customer service excutive,Batch1,12:30-01:30,0,14
+5d1a7df62943ef0384b63f95,CFE0015,Hari Javvadi,Customer service excutive,Batch1,12:30-01:30,0,15
+5d1a7df62943ef0384b63f96,CFE0016,Santosh Kumar Kintali,Customer service excutive,Batch1,12:30-01:30,0,16
+5d1a7df62943ef0384b63f97,CFE0017,Sivakumar Togarana,Customer service excutive,Batch1,12:30-01:30,0,17
+5d1a7df62943ef0384b63f98,CFE0018,Devi Varri,Customer service excutive,Batch1,12:30-01:30,0,18
+5d1a7df62943ef0384b63f99,CFE0019,Mounica Swarupa Marisetti,Customer service excutive,Batch1,12:30-01:30,0,19
+5d1a7df62943ef0384b63f9a,CFE0020,Bhaskara Rao Ippili,Customer service excutive,Batch1,12:30-01:30,0,20
+5d1a7df62943ef0384b63f9b,CFE0021,Ranjitha Patnaikuni,Customer service excutive,Batch1,12:30-01:30,0,21
+5d1a7df62943ef0384b63f9c,CFE0022,Vamsi Koppala,Customer service excutive,Batch1,12:30-01:30,0,22
+5d1a7df62943ef0384b63f9d,CFE0023,Himabindu Nalla,Customer service excutive,Batch1,12:30-01:30,0,23
+5d1a7df62943ef0384b63f9e,CFE0024,kala Priya Kosti,Customer service excutive,Batch1,12:30-01:30,0,24
+5d1a7df62943ef0384b63f9f,CFE0025,Sunilkumar Kuncham,Customer service excutive,Batch1,12:30-01:30,0,25
+5d1a7df62943ef0384b63fa0,CFE0026,Ramsai Kanne,Customer service excutive,Batch2,01:30-02:30,0,26
+5d1a7df62943ef0384b63fa1,CFE0027,Rajendra Kumar Sirram,Customer service excutive,Batch2,01:30-02:30,0,27
+5d1a7df62943ef0384b63fa2,CFE0028,Revathi Gogula,Customer service excutive,Batch2,01:30-02:30,0,28
+5d1a7df62943ef0384b63fa3,CFE0029,Jyothi Eetha,Customer service excutive,Batch2,01:30-02:30,0,29
+5d1a7df62943ef0384b63fa4,CFE0030,Bharath Kumar Reddi,Customer service excutive,Batch2,01:30-02:30,0,30
+5d1a7df62943ef0384b63fa5,CFE0031,Srinivas Pramod Chaitanya Daggupati,Customer service excutive,Batch2,01:30-02:30,0,31
+5d1a7df62943ef0384b63fa6,CFE0032,Vinod Kumar Vennela,Customer service excutive,Batch2,01:30-02:30,0,32
+5d1a7df62943ef0384b63fa7,CFE0033,Harish Vasupalli,Customer service excutive,Batch2,01:30-02:30,0,33
+5d1a7df62943ef0384b63fa8,CFE0034,Jaya Venkateswara Rao Sayam,Customer service excutive,Batch2,01:30-02:30,0,34
+5d1a7df62943ef0384b63fa9,CFE0035,Sai Padma Sri Kammina,Customer service excutive,Batch2,01:30-02:30,0,35
+5d1a7df62943ef0384b63faa,CFE0036,Tanuja Nambala,Customer service excutive,Batch2,01:30-02:30,0,36
+5d1a7df62943ef0384b63fab,CFE0037,Chandrasekhar Maddila,Customer service excutive,Batch2,01:30-02:30,0,37
+5d1a7df62943ef0384b63fac,CFE0038,Sowjanya devi Gurana,Customer service excutive,Batch2,01:30-02:30,0,38
+5d1a7df62943ef0384b63fad,CFE0039,Lal sameer Shaik,Customer service excutive,Batch2,01:30-02:30,0,39
+5d1a7df62943ef0384b63fae,CFE0040,Prasanna kumar Mugi,Customer service excutive,Batch2,01:30-02:30,0,40
+5d1a7df62943ef0384b63faf,CFE0041,Chandan kumar komma,Customer service excutive,Batch2,01:30-02:30,0,41
+5d1a7df62943ef0384b63fb0,CFE0042,Madhavi killami,Customer service excutive,Batch2,01:30-02:30,0,42
+5d1a7df62943ef0384b63fb1,CFE0043,Ananda Rongala,Customer service excutive,Batch2,01:30-02:30,0,43
+5d1a7df62943ef0384b63fb2,CFE0044,Sudhakar tadi,Customer service excutive,Batch2,01:30-02:30,0,44
+5d1a7df62943ef0384b63fb3,CFE0045,Akhil kumar pattu,Customer service excutive,Batch2,01:30-02:30,0,45
+5d1a7df62943ef0384b63fb4,CFE0046,Aswini rokkina,Customer service excutive,Batch2,01:30-02:30,0,46
+5d1a7df62943ef0384b63fb5,CFE0047,Janardhana rao Bagadi,Customer service excutive,Batch2,01:30-02:30,0,47
+5d1a7df62943ef0384b63fb6,CFE0048,Lakshmi sowjanya Kalagani,Customer service excutive,Batch2,01:30-02:30,0,48
+5d1a7df62943ef0384b63fb7,CFE0049,Ranjith Regulapati,Customer service excutive,Batch2,01:30-02:30,0,49
+5d1a7df62943ef0384b63fb8,CFE0050,Yishaan Varma Arivati,CEO,Batch2,01:30-02:30,0,50
+5d1a7df62943ef0384b63fb9,CFE0051,Pujitha Pathi,Director,Batch2,01:30-02:30,0,51
+5d1a7df62943ef0384b63fba,CFE0052,Bhavana Siva Priya Mandapati,President,Batch2,01:30-02:30,0,52
+5d1a7df62943ef0384b63fbb,CFE0053,Vidya Sagar Edubulli,HR Manager,Batch2,01:30-02:30,0,53
+5d1a7df62943ef0384b63fbc,CFE0054,Sarath Swarnapudi,Manager,Batch2,01:30-02:30,0,54
+5d1a7df62943ef0384b63fbd,CFE0055,Anilraj Chalapaka,Manager,Batch2,01:30-02:30,0,55
+5d1a7df62943ef0384b63fbe,CFE0056,Kirankumar Poluparthi,Manager,Batch2,01:30-02:30,0,56
+5d1a7df62943ef0384b63fbf,CFE0057,Pruthviraj Nalam,Accountant,Batch2,01:30-02:30,0,57
